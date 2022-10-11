@@ -1,0 +1,257 @@
+2022-04-13 11:13:37,215:DEBUG::
+2022-04-13 11:13:37,215:DEBUG::====================================================================================================
+2022-04-13 11:13:37,216:INFO::Starting App
+2022-04-13 11:13:37,216:INFO::Imports Complete
+2022-04-13 11:13:37,221:DEBUG::Detected 1 number of monitors
+2022-04-13 11:13:37,221:DEBUG::Monitor 1 = 1920x1080 (primary)
+2022-04-13 11:13:37,263:DEBUG::Created Default Camera Control Database
+2022-04-13 11:13:37,273:DEBUG::Created Default NMS Control Database
+2022-04-13 11:13:37,284:DEBUG::Created Other Setting Table
+2022-04-13 11:13:37,285:INFO::Database Successfully created
+2022-04-13 11:13:37,287:DEBUG::Checking For Thumbnails Update
+2022-04-13 11:13:37,289:DEBUG::Checking For Unused Thumbnails
+2022-04-13 11:13:38,592:INFO::Using Single Monitor Mode
+2022-04-13 11:13:56,863:DEBUG::Closing Home Window
+2022-04-13 11:15:34,961:DEBUG::
+2022-04-13 11:15:34,962:DEBUG::====================================================================================================
+2022-04-13 11:15:34,962:INFO::Starting App
+2022-04-13 11:15:34,962:INFO::Imports Complete
+2022-04-13 11:15:34,964:DEBUG::Detected 1 number of monitors
+2022-04-13 11:15:34,965:DEBUG::Monitor 1 = 1920x1080 (primary)
+2022-04-13 11:15:34,971:INFO::skipping DataBase Creation: table nmsctrl already exists
+2022-04-13 11:15:34,973:DEBUG::Checking For Thumbnails Update
+2022-04-13 11:15:34,973:DEBUG::Checking For Unused Thumbnails
+2022-04-13 11:15:35,992:INFO::Using Single Monitor Mode
+2022-04-13 11:15:39,844:DEBUG::Closing Home Window
+2022-04-13 11:17:56,054:DEBUG::
+2022-04-13 11:17:56,055:DEBUG::====================================================================================================
+2022-04-13 11:17:56,055:INFO::Starting App
+2022-04-13 11:17:56,055:INFO::Imports Complete
+2022-04-13 11:17:56,059:DEBUG::Detected 1 number of monitors
+2022-04-13 11:17:56,060:DEBUG::Monitor 1 = 1920x1080 (primary)
+2022-04-13 11:17:56,062:INFO::skipping DataBase Creation: table nmsctrl already exists
+2022-04-13 11:17:56,064:DEBUG::Checking For Thumbnails Update
+2022-04-13 11:17:56,066:DEBUG::Checking For Unused Thumbnails
+2022-04-13 11:17:57,051:INFO::Using Single Monitor Mode
+2022-04-13 11:18:08,398:DEBUG::Closing Analysis Window
+2022-04-13 11:18:14,983:DEBUG::Closing Home Window
+2022-04-13 11:18:28,738:DEBUG::
+2022-04-13 11:18:28,739:DEBUG::====================================================================================================
+2022-04-13 11:18:28,739:INFO::Starting App
+2022-04-13 11:18:28,739:INFO::Imports Complete
+2022-04-13 11:18:28,742:DEBUG::Detected 1 number of monitors
+2022-04-13 11:18:28,743:DEBUG::Monitor 1 = 1920x1080 (primary)
+2022-04-13 11:18:28,744:INFO::skipping DataBase Creation: table nmsctrl already exists
+2022-04-13 11:18:28,746:DEBUG::Checking For Thumbnails Update
+2022-04-13 11:18:28,748:DEBUG::Checking For Unused Thumbnails
+2022-04-13 11:18:29,717:INFO::Using Single Monitor Mode
+2022-04-13 11:18:39,561:DEBUG::Closing Home Window
+2022-04-13 11:18:57,568:DEBUG::
+2022-04-13 11:18:57,568:DEBUG::====================================================================================================
+2022-04-13 11:18:57,568:INFO::Starting App
+2022-04-13 11:18:57,569:INFO::Imports Complete
+2022-04-13 11:18:57,572:DEBUG::Detected 1 number of monitors
+2022-04-13 11:18:57,573:DEBUG::Monitor 1 = 1920x1080 (primary)
+2022-04-13 11:18:57,574:INFO::skipping DataBase Creation: table nmsctrl already exists
+2022-04-13 11:18:57,576:DEBUG::Checking For Thumbnails Update
+2022-04-13 11:18:57,578:DEBUG::Checking For Unused Thumbnails
+2022-04-13 11:18:58,571:INFO::Using Single Monitor Mode
+2022-04-13 11:19:06,613:DEBUG::Closing Home Window
+2022-04-13 11:19:25,947:DEBUG::
+2022-04-13 11:19:25,948:DEBUG::====================================================================================================
+2022-04-13 11:19:25,948:INFO::Starting App
+2022-04-13 11:19:25,949:INFO::Imports Complete
+2022-04-13 11:19:25,952:DEBUG::Detected 1 number of monitors
+2022-04-13 11:19:25,953:DEBUG::Monitor 1 = 1920x1080 (primary)
+2022-04-13 11:19:25,954:INFO::skipping DataBase Creation: table nmsctrl already exists
+2022-04-13 11:19:25,956:DEBUG::Checking For Thumbnails Update
+2022-04-13 11:19:25,958:DEBUG::Checking For Unused Thumbnails
+2022-04-13 11:19:26,931:INFO::Using Single Monitor Mode
+2022-04-13 11:19:31,726:DEBUG::Closing Home Window
+2022-04-13 11:19:41,296:DEBUG::
+2022-04-13 11:19:41,297:DEBUG::====================================================================================================
+2022-04-13 11:19:41,297:INFO::Starting App
+2022-04-13 11:19:41,298:INFO::Imports Complete
+2022-04-13 11:19:41,302:DEBUG::Detected 1 number of monitors
+2022-04-13 11:19:41,303:DEBUG::Monitor 1 = 1920x1080 (primary)
+2022-04-13 11:19:41,305:INFO::skipping DataBase Creation: table nmsctrl already exists
+2022-04-13 11:19:41,307:DEBUG::Checking For Thumbnails Update
+2022-04-13 11:19:41,309:DEBUG::Checking For Unused Thumbnails
+2022-04-13 11:19:42,285:INFO::Using Single Monitor Mode
+2022-04-13 11:20:04,034:DEBUG::Starting Main App
+2022-04-13 11:20:09,259:ERROR::cannot unpack non-iterable NoneType object
+Traceback (most recent call last):
+  File "WINssim.py", line 3156, in <module>
+    PATTERN_VIEW_WIN, PV_Width, PV_Height = Batch_Capture_Pattern(Default_Pattern = Default_Pattern)
+TypeError: cannot unpack non-iterable NoneType object
+2022-10-11 19:04:57,103:DEBUG::
+2022-10-11 19:04:57,103:DEBUG::====================================================================================================
+2022-10-11 19:04:57,104:INFO::Starting App
+2022-10-11 19:04:57,104:INFO::Imports Complete
+2022-10-11 19:04:57,109:DEBUG::Detected 1 number of monitors
+2022-10-11 19:04:57,110:DEBUG::Monitor 1 = 1920x1080 (primary)
+2022-10-11 19:04:57,112:INFO::skipping DataBase Creation: table nmsctrl already exists
+2022-10-11 19:04:57,115:DEBUG::Checking For Thumbnails Update
+2022-10-11 19:04:57,116:DEBUG::Checking For Unused Thumbnails
+2022-10-11 19:04:58,400:INFO::Using Single Monitor Mode
+2022-10-11 19:06:16,603:DEBUG::Opening New Mirror Standard Camera View
+2022-10-11 19:06:16,923:DEBUG::Opening New Mirror Standard Pattern View
+2022-10-11 19:06:16,979:DEBUG::Auto Start Camera Stream
+2022-10-11 19:07:57,734:DEBUG::Closing New Mirror Standard Camera View
+2022-10-11 19:07:58,035:DEBUG::Closing Camera Display Window
+2022-10-11 19:08:17,133:DEBUG::Opening New Camera Control Window
+2022-10-11 19:08:31,253:DEBUG::Closing Camera Control Window
+2022-10-11 19:08:35,554:DEBUG::Showing Pattern Folder
+2022-10-11 19:08:46,340:DEBUG::Closing Other Setting Window
+2022-10-11 19:08:53,149:DEBUG::Starting Main App
+2022-10-11 19:08:56,525:ERROR::cannot unpack non-iterable NoneType object
+Traceback (most recent call last):
+  File "WINssim.py", line 3156, in <module>
+    PATTERN_VIEW_WIN, PV_Width, PV_Height = Batch_Capture_Pattern(Default_Pattern = Default_Pattern)
+TypeError: cannot unpack non-iterable NoneType object
+2022-10-11 19:20:34,116:DEBUG::
+2022-10-11 19:20:34,117:DEBUG::====================================================================================================
+2022-10-11 19:20:34,117:INFO::Starting App
+2022-10-11 19:20:34,118:INFO::Imports Complete
+2022-10-11 19:20:34,121:DEBUG::Detected 1 number of monitors
+2022-10-11 19:20:34,122:DEBUG::Monitor 1 = 1920x1080 (primary)
+2022-10-11 19:20:34,124:INFO::skipping DataBase Creation: table nmsctrl already exists
+2022-10-11 19:20:34,127:DEBUG::Checking For Thumbnails Update
+2022-10-11 19:20:34,129:DEBUG::Checking For Unused Thumbnails
+2022-10-11 19:20:35,573:INFO::Using Single Monitor Mode
+2022-10-11 19:20:53,402:DEBUG::Opening New Mirror Standard Camera View
+2022-10-11 19:20:54,008:DEBUG::Opening New Mirror Standard Pattern View
+2022-10-11 19:20:54,157:DEBUG::Auto Start Camera Stream
+2022-10-11 19:21:17,609:DEBUG::Thumbnail Refresh Complete
+2022-10-11 19:21:17,614:DEBUG::==============================
+2022-10-11 19:21:17,615:DEBUG::01_Pattern.png
+2022-10-11 19:21:17,615:DEBUG::==============================
+2022-10-11 19:21:17,618:DEBUG::Image Thumbnail Highlighted
+2022-10-11 19:21:17,791:DEBUG::Image Displayed
+2022-10-11 19:21:34,318:DEBUG::Manual Start Camera Stream
+2022-10-11 19:21:51,055:DEBUG::Stopping Camera Stream
+2022-10-11 19:21:51,119:DEBUG::Taking A Picture
+2022-10-11 19:21:59,424:DEBUG::Detected Crop is Enabled
+2022-10-11 19:22:21,579:DEBUG::Thumbnail Refresh Complete
+2022-10-11 19:22:21,581:DEBUG::==============================
+2022-10-11 19:22:21,581:DEBUG::02_Pattern.png
+2022-10-11 19:22:21,582:DEBUG::==============================
+2022-10-11 19:22:21,584:DEBUG::Image Thumbnail Highlighted
+2022-10-11 19:22:21,781:DEBUG::Image Displayed
+2022-10-11 19:22:28,762:DEBUG::Stopping Camera Stream
+2022-10-11 19:22:28,825:DEBUG::Taking A Picture
+2022-10-11 19:22:51,075:DEBUG::Thumbnail Refresh Complete
+2022-10-11 19:22:51,077:DEBUG::==============================
+2022-10-11 19:22:51,077:DEBUG::03_Pattern.png
+2022-10-11 19:22:51,078:DEBUG::==============================
+2022-10-11 19:22:51,080:DEBUG::Image Thumbnail Highlighted
+2022-10-11 19:22:51,245:DEBUG::Image Displayed
+2022-10-11 19:22:54,133:DEBUG::Stopping Camera Stream
+2022-10-11 19:22:54,221:DEBUG::Taking A Picture
+2022-10-11 19:23:03,909:DEBUG::Closed Pattern Window Only
+2022-10-11 19:23:06,240:DEBUG::Closing New Mirror Standard Camera View
+2022-10-11 19:23:24,576:DEBUG::Closing Analysis Window
+2022-10-11 19:23:31,076:DEBUG::Opening Batch Capture Window
+2022-10-11 19:25:43,732:DEBUG::Created New Pattern Folder at Mirror_Standard/New_Patterns
+2022-10-11 19:25:43,736:DEBUG::Starting Camera Stream
+2022-10-11 19:25:54,027:DEBUG::Capturing Pattern Image
+2022-10-11 19:26:04,646:DEBUG::Capturing Pattern Image
+2022-10-11 19:26:15,365:DEBUG::Capturing Pattern Image
+2022-10-11 19:26:25,973:DEBUG::Capturing Pattern Image
+2022-10-11 19:26:37,890:DEBUG::Capturing Pattern Image
+2022-10-11 19:26:48,613:DEBUG::Capturing Pattern Image
+2022-10-11 19:26:59,316:DEBUG::Capturing Pattern Image
+2022-10-11 19:27:10,041:DEBUG::Capturing Pattern Image
+2022-10-11 19:27:20,757:DEBUG::Capturing Pattern Image
+2022-10-11 19:27:22,754:DEBUG::Stopping Batch Capture System
+2022-10-11 19:27:47,498:DEBUG::Update Concluded
+2022-10-11 19:27:47,498:DEBUG::Checking For Unused Thumbnails
+2022-10-11 19:27:47,501:DEBUG::Clearing Unused Thumbnails
+2022-10-11 19:27:47,604:DEBUG::Thumbails Cleared
+2022-10-11 19:27:58,268:DEBUG::Closing Batch Capture Window
+2022-10-11 19:28:04,201:DEBUG::Opening Pattern Origin View
+2022-10-11 19:28:07,927:DEBUG::Thumbnail Refresh Complete
+2022-10-11 19:28:07,932:DEBUG::==============================
+2022-10-11 19:28:07,933:DEBUG::01_Pattern.png
+2022-10-11 19:28:07,934:DEBUG::==============================
+2022-10-11 19:28:07,942:DEBUG::Image Thumbnail Highlighted
+2022-10-11 19:28:08,205:DEBUG::Image Displayed
+2022-10-11 19:28:09,325:DEBUG::Thumbnail Refresh Complete
+2022-10-11 19:28:09,327:DEBUG::==============================
+2022-10-11 19:28:09,327:DEBUG::02_Pattern.png
+2022-10-11 19:28:09,328:DEBUG::==============================
+2022-10-11 19:28:09,331:DEBUG::Image Thumbnail Highlighted
+2022-10-11 19:28:09,508:DEBUG::Image Displayed
+2022-10-11 19:28:10,857:DEBUG::Thumbnail Refresh Complete
+2022-10-11 19:28:10,859:DEBUG::==============================
+2022-10-11 19:28:10,859:DEBUG::03_Pattern.png
+2022-10-11 19:28:10,860:DEBUG::==============================
+2022-10-11 19:28:10,862:DEBUG::Image Thumbnail Highlighted
+2022-10-11 19:28:11,030:DEBUG::Image Displayed
+2022-10-11 19:28:12,166:DEBUG::Thumbnail Refresh Complete
+2022-10-11 19:28:12,171:DEBUG::==============================
+2022-10-11 19:28:12,172:DEBUG::04_Pattern.png
+2022-10-11 19:28:12,174:DEBUG::==============================
+2022-10-11 19:28:12,179:DEBUG::Image Thumbnail Highlighted
+2022-10-11 19:28:12,384:DEBUG::Image Displayed
+2022-10-11 19:28:13,509:DEBUG::Thumbnail Refresh Complete
+2022-10-11 19:28:13,511:DEBUG::==============================
+2022-10-11 19:28:13,512:DEBUG::05_Pattern.png
+2022-10-11 19:28:13,513:DEBUG::==============================
+2022-10-11 19:28:13,517:DEBUG::Image Thumbnail Highlighted
+2022-10-11 19:28:13,705:DEBUG::Image Displayed
+2022-10-11 19:28:14,750:DEBUG::Thumbnail Refresh Complete
+2022-10-11 19:28:14,753:DEBUG::==============================
+2022-10-11 19:28:14,754:DEBUG::06_Pattern.png
+2022-10-11 19:28:14,755:DEBUG::==============================
+2022-10-11 19:28:14,759:DEBUG::Image Thumbnail Highlighted
+2022-10-11 19:28:14,924:DEBUG::Image Displayed
+2022-10-11 19:28:17,072:DEBUG::Closed Pattern Window Only
+2022-10-11 19:28:23,698:DEBUG::Starting Main App
+2022-10-11 19:32:14,646:DEBUG::Closing Main App Section
+2022-10-11 19:32:14,654:DEBUG::Closed Pattern Window Only
+2022-10-11 19:32:24,287:DEBUG::Starting Main App
+2022-10-11 19:32:36,484:DEBUG::Bboxed Image Displayed updated display Image to Mirror_Standard/MirrorStandards/02_Pattern.png
+2022-10-11 19:32:36,489:DEBUG::SSIM Computed
+2022-10-11 19:32:36,489:DEBUG::Test Result is 4.6725355253864294e-05
+2022-10-11 19:32:45,507:DEBUG::Bboxed Image Displayed updated display Image to Mirror_Standard/MirrorStandards/03_Pattern.png
+2022-10-11 19:32:45,512:DEBUG::SSIM Computed
+2022-10-11 19:32:45,512:DEBUG::Test Result is 0.11038274030757576
+2022-10-11 19:32:50,420:DEBUG::Bboxed Image Displayed updated display Image to Mirror_Standard/MirrorStandards/04_Pattern.png
+2022-10-11 19:32:50,425:DEBUG::SSIM Computed
+2022-10-11 19:32:50,426:DEBUG::Test Result is 0.18260206955938982
+2022-10-11 19:32:59,394:DEBUG::Bboxed Image Displayed updated display Image to Mirror_Standard/MirrorStandards/05_Pattern.png
+2022-10-11 19:32:59,399:DEBUG::SSIM Computed
+2022-10-11 19:32:59,399:DEBUG::Test Result is 0.2792252150193027
+2022-10-11 19:33:04,291:DEBUG::Bboxed Image Displayed updated display Image to Mirror_Standard/MirrorStandards/06_Pattern.png
+2022-10-11 19:33:04,296:DEBUG::SSIM Computed
+2022-10-11 19:33:04,297:DEBUG::Test Result is 0.24655683766775263
+2022-10-11 19:33:13,316:DEBUG::Bboxed Image Displayed updated display Image to Mirror_Standard/MirrorStandards/07_Pattern.png
+2022-10-11 19:33:13,321:DEBUG::SSIM Computed
+2022-10-11 19:33:13,322:DEBUG::Test Result is 0.23865884887605682
+2022-10-11 19:33:17,203:DEBUG::Bboxed Image Displayed updated display Image to Mirror_Standard/MirrorStandards/08_Pattern.png
+2022-10-11 19:33:17,207:DEBUG::SSIM Computed
+2022-10-11 19:33:17,208:DEBUG::Test Result is 0.23307782483446826
+2022-10-11 19:33:27,523:DEBUG::Bboxed Image Displayed updated display Image to Mirror_Standard/MirrorStandards/09_Pattern.png
+2022-10-11 19:33:27,528:DEBUG::SSIM Computed
+2022-10-11 19:33:27,528:DEBUG::Test Result is 0.23617186426918238
+2022-10-11 19:33:30,786:DEBUG::Bboxed Image Displayed updated display Image to Mirror_Standard/MirrorStandards/01_Pattern.png
+2022-10-11 19:33:30,791:DEBUG::SSIM Computed
+2022-10-11 19:33:30,791:DEBUG::Test Result is 0.236085015242519
+2022-10-11 19:33:41,764:ERROR::list index out of range
+Traceback (most recent call last):
+  File "WINssim.py", line 3269, in <module>
+    Thumbnail_File = Thumbnail_Files[Sample_Count-1]
+IndexError: list index out of range
+2022-10-11 19:35:47,575:DEBUG::
+2022-10-11 19:35:47,575:DEBUG::====================================================================================================
+2022-10-11 19:35:47,576:INFO::Starting App
+2022-10-11 19:35:47,576:INFO::Imports Complete
+2022-10-11 19:35:47,579:DEBUG::Detected 1 number of monitors
+2022-10-11 19:35:47,580:DEBUG::Monitor 1 = 1920x1080 (primary)
+2022-10-11 19:35:47,582:INFO::skipping DataBase Creation: table nmsctrl already exists
+2022-10-11 19:35:47,585:DEBUG::Checking For Thumbnails Update
+2022-10-11 19:35:47,586:DEBUG::Checking For Unused Thumbnails
+2022-10-11 19:35:49,100:INFO::Using Single Monitor Mode
+2022-10-11 19:36:08,669:DEBUG::Closing Analysis Window
+2022-10-11 19:36:09,670:DEBUG::Closing Home Window

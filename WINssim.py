@@ -508,8 +508,8 @@ Home Window Section
 def Home_Win():
     
     # Window Location
-    Home_Width = 550
-    Home_Height = 290
+    Home_Width = 1050
+    Home_Height = 500
     Home_Pos_Width = (monitor_dimensions["Monitor_1_Width"] - Home_Width)/2
     Home_Pos_Height  = (monitor_dimensions["Monitor_1_Height"] - Home_Height)/2
 
